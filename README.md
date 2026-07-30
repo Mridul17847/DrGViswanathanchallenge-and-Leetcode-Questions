@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2351-first-letter-to-appear-twice) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2235-add-two-integers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Design
 |  |
 | ------- |
