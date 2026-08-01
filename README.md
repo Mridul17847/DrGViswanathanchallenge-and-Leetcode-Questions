@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
