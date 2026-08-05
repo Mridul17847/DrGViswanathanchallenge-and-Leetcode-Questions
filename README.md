@@ -287,4 +287,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
