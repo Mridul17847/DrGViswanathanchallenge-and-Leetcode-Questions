@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -290,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0620-not-boring-movies) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
