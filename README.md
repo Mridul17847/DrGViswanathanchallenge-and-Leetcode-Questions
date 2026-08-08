@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0819-most-common-word) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2351-first-letter-to-appear-twice) |
 | [2938-separate-black-and-white-balls](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2938-separate-black-and-white-balls) |
@@ -301,4 +302,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
