@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2235-add-two-integers) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Combinatorics
 |  |
@@ -280,11 +283,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0097-interleaving-string) |
 | [0486-predict-the-winner](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
 ## Database
 |  |
 | ------- |
@@ -303,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
