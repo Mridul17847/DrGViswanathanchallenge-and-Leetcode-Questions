@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0097-interleaving-string) |
 | [0187-repeated-dna-sequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0242-valid-anagram) |
