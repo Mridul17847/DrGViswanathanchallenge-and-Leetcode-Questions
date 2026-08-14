@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0056-merge-intervals) |
+| [0118-pascals-triangle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
