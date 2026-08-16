@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0401-binary-watch) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0401-binary-watch](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Minimax
 |  |
