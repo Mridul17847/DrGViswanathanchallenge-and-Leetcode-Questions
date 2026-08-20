@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0136-single-number) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0051-n-queens) |
 | [0401-binary-watch](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Minimax
@@ -355,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0300-longest-increasing-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
