@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0819-most-common-word) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -230,10 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2938-separate-black-and-white-balls](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1510-stone-game-iv) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0241-different-ways-to-add-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0678-valid-parenthesis-string) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
