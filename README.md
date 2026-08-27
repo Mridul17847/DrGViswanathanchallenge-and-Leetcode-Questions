@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1510-stone-game-iv) |
