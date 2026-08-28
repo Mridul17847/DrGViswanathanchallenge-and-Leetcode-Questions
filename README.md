@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0241-different-ways-to-add-parentheses) |
@@ -308,11 +309,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0118-pascals-triangle) |
