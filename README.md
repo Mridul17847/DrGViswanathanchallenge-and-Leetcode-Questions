@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0258-add-digits) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0198-house-robber) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1137-n-th-tribonacci-number) |
