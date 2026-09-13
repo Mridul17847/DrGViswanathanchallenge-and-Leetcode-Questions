@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0209-minimum-size-subarray-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0242-valid-anagram) |
@@ -438,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
