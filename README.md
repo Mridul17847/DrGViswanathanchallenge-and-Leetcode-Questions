@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-n-th-tribonacci-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1137-n-th-tribonacci-number) |
@@ -444,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0128-longest-consecutive-sequence) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
