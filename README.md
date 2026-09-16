@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0279-perfect-squares) |
 ## Knapsack Problem
 |  |
@@ -432,18 +433,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
