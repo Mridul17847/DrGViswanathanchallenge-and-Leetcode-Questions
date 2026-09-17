@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0051-n-queens) |
+| [0257-binary-tree-paths](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Minimax
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
