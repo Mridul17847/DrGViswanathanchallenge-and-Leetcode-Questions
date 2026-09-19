@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-n-th-tribonacci-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1510-stone-game-iv) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 ## DP on Trees
 |  |
 | ------- |
