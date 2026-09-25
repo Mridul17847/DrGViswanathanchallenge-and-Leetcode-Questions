@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0097-interleaving-string) |
 | [0187-repeated-dna-sequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0241-different-ways-to-add-parentheses) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0198-house-robber) |
