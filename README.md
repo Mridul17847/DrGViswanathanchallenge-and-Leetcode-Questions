@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0072-edit-distance) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
