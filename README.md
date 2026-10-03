@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0072-edit-distance) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0063-unique-paths-ii) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
