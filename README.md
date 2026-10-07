@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Minimax
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0301-remove-invalid-parentheses) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Knapsack Problem
 |  |
