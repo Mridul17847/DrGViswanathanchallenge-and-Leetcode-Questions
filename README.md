@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2938-separate-black-and-white-balls](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2938-separate-black-and-white-balls) |
 ## String
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2938-separate-black-and-white-balls) |
@@ -294,12 +296,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2938-separate-black-and-white-balls](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
