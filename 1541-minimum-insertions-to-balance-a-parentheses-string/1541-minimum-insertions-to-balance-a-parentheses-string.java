@@ -24,6 +24,6 @@ class Solution {
                 }
             }
         }
-        return count + stack.size() * 2;
+        return count + stack.size() *2;
     }
 }
