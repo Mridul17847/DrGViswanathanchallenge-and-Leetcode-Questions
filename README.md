@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1051-height-checker](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -568,4 +570,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
