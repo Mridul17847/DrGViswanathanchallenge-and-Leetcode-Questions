@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0128-longest-consecutive-sequence) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0347-top-k-frequent-elements) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0876-middle-of-the-linked-list) |
