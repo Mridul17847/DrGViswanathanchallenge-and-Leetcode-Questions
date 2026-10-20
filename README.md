@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0347-top-k-frequent-elements) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
