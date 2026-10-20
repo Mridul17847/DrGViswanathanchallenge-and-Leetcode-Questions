@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0198-house-robber) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0241-different-ways-to-add-parentheses) |
