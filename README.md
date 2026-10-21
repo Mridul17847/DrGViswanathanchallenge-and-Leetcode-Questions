@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Binary Search
 |  |
 | ------- |
