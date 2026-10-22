@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0118-pascals-triangle) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0231-power-of-two) |
