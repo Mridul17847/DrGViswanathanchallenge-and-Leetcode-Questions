@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3731-find-missing-elements](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0401-binary-watch) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2351-first-letter-to-appear-twice) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
