@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2235-add-two-integers) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3364-minimum-positive-sum-subarray) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/3524-find-x-value-of-array-i) |
 ## Game Theory
 |  |
