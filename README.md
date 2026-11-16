@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2409-count-days-spent-together) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
