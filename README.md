@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0198-house-robber) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Mridul17847/DrGViswanathanchallenge/tree/master/0241-different-ways-to-add-parentheses) |
